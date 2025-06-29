@@ -1,1 +1,2 @@
 # Parallex-website<br>
+Designed and developed a visually engaging parallax scrolling website to showcase modern web design techniques. Implemented multiple layered sections where background images move at different speeds relative to the foreground content, creating a dynamic depth effect. HTML was used for structuring content, CSS for styling and animation effects, and JavaScript to enhance interactivity and smooth scrolling behavior.
